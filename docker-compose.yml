@@ -17,7 +17,6 @@ services:
   worker:
     image: worker-app
 
-
   result:
     image: result-app
     ports:
