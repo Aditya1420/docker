@@ -21,6 +21,3 @@ services:
     image: result-app
     ports:
       - 5001:80
-  
-  Ubuntu:
-    image: latest
